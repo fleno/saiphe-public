@@ -1,0 +1,13 @@
+{
+	"name": "fleno/saiphe-public",
+	"type": "library",
+	"description": "",
+	"require": {
+		"php": ">=7.4"
+	},
+	"autoload": {
+		"psr-4": {
+			"Saiphe\\Public\\": "src/"
+		}
+	}
+}
