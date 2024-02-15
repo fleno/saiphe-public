@@ -1,6 +1,7 @@
 {
 	"name": "fleno/saiphe-public",
 	"type": "library",
+	"license": "proprietary",
 	"description": "",
 	"require": {
 		"php": ">=7.4"
